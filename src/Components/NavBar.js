@@ -2,28 +2,9 @@ import React from 'react';
 
 const NavBar = () => {
     return(
-    <nav>
-      <ul>
-    <li className="Parent_nav">
-        NTS
-    </li>
-      <li className="navChild">
-      Radio
-      </li>
-      
-      <li className="nav">
-      Latest
-      </li>
 
-      <li className="nav">
-      Explore
-      </li>
-
-      <li className="nav">
-      Infinite Mixtapes
-      </li>
-    </ul>
-    </nav>
+        <img src="https://media2.ntslive.co.uk/resize/1600x1600/2cf21222-1006-49d4-b96e-8f926def3538_1575849600.png)"/>
+        
     );
 }
 
